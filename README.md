@@ -6,5 +6,5 @@ I find a great course offered by [Harvard University](https://www.harvard.edu/) 
 <br>
 CS50 is a collection of great courses of Computer Science. The course instructor was my favorite teacher [David J. Malan](https://www.facebook.com/dmalan).
 
-
+All the solutions of CS50x are entirely done by me a.k.a [Sakib](https://github.com/Sakib831).
 
