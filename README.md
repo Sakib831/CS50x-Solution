@@ -1,6 +1,6 @@
 # CS50x-Solution
 
-This repository contains all the solutions of CS50x.\
+This repository contains all the solutions of [CS50x](https://cs50.harvard.edu/x/2021/).\
 In 2021, when I started to learn to program.
 I find a great course offered by [Harvard University](https://www.harvard.edu/) named [CS50](https://cs50.harvard.edu/college/2021/fall/).\
 <br>
