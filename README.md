@@ -9,5 +9,5 @@ I find a great course offered by [Harvard University](https://www.harvard.edu/) 
 All the solutions of CS50x are entirely done by me a.k.a [Sakib](https://github.com/Sakib831).😜
 <br>
 <br>
-This solution will help you to get the highest marks.\
+This solutions will help you to achieve the best result.\
 Hope you like this.
